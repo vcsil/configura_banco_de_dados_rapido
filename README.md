@@ -1,4 +1,5 @@
 # Manipula Banco de Dados Rápido
+[![wakatime](https://wakatime.com/badge/user/04459a42-f0a6-4019-ad90-9558a7c04b39/project/018c3a26-8f43-4a6b-bf8b-0c596112d7c9.svg)](https://wakatime.com/badge/user/04459a42-f0a6-4019-ad90-9558a7c04b39/project/018c3a26-8f43-4a6b-bf8b-0c596112d7c9)
 
 Código `bash` para **criar**, **conectar** e **deletar** banco de dados do tipo PostgreSQL.
 
